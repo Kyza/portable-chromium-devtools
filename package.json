@@ -8,7 +8,7 @@
 	},
 	"keywords": [],
 	"author": "",
-	"license": "ISC",
+	"license": "MIT",
 	"devDependencies": {
 		"electron-nightly": "^19.0.0-nightly.20220310"
 	}
