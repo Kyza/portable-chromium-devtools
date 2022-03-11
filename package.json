@@ -1,0 +1,15 @@
+{
+	"name": "fdt",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "electron ./src"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"electron-nightly": "^19.0.0-nightly.20220310"
+	}
+}
